@@ -2,10 +2,10 @@
 This project was a task of university which in on Python, Pandas, Numpy, ML Basic
 
 
-Project: Classification based Machine learning Model Development
-Deadline: Lab exam week (in the lab class)
+#Project: Classification based Machine learning Model Development
+#Deadline: Lab exam week (in the lab class)
 
-project requiremnents:
+#project requiremnents:
 	- Python
 	- Classification based Model
 	- a real data set (minimum 2000 instances)
@@ -20,7 +20,7 @@ project requiremnents:
 	- comparison among the clasifiers
 		- predicive accuracy
 
-Report template:
+# Report template:
 	- standard cover page 
 	- section 1: project overview
 	- section 2: Dataset overview
