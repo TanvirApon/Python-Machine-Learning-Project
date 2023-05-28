@@ -1,11 +1,11 @@
-Python Machine Learning Project
+# Python Machine Learning Project
 
 This repository contains a machine learning project that focuses on the development of classification-based models using Python, Pandas, NumPy, and basic machine learning techniques.
+
+
 Project Overview
-
 The goal of this project is to develop classification models using real-world data. The project requirements include:
-
-    Using Python programming language
+  Using Python programming language
     Implementing classification-based models
     Working with a real dataset with a minimum of 2000 instances
     Performing data preprocessing, including data cleaning
