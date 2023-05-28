@@ -59,9 +59,8 @@ In the final section of the project, a comparison among the different models is 
 
 The repository is structured as follows:
 
-- `data/`: This directory contains the dataset files used in the project.
-- `notebooks/`: This directory contains Jupyter notebooks with the code implementation and analysis.
-- `images/`: This directory contains images and plots generated during the project.
+- `IMDB_Movies`: This file contains the dataset files used in the project.
+- `main.ipynb`: This file contains Jupyter notebooks with the code implementation and analysis.
 - `README.md`: This file provides an overview of the project and instructions on how to navigate the repository.
 
 ## Usage
@@ -69,7 +68,7 @@ The repository is structured as follows:
 To use the code and follow along with the project, follow these steps:
 
 1. Clone the repository to your local machine using Git or download it as a ZIP file.
-2. Navigate to the `notebooks/` directory to find the Jupyter notebooks containing the code implementation.
+2. Navigate to the `main.ipynb` directory to find the Jupyter notebooks containing the code implementation.
 3. Open the notebooks in Jupyter or any compatible environment.
 4. Run the code cells sequentially to reproduce the analysis and results.
 
