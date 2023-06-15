@@ -17,7 +17,7 @@ The goal of this project is to develop classification models using real-world da
   - Decision Tree
   - Logistic Regression
   - Support Vector Machine (SVM)
-- Comparing the classifiers based on their predictive accuracy
+  - Comparing the classifiers based on their predictive accuracy
 
 ## Dataset Overview
 
